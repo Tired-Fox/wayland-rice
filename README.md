@@ -38,6 +38,8 @@ My personal wayland rice configuration. This only includes what is needed for th
 - [sddm](https://github.com/sddm/sddm)
   - [Themed](https://github.com/Keyitdev/sddm-astronaut-theme/tree/master) 
 
+https://www.artstation.com/gharly
+
 ### Rice Inspo
 - https://www.reddit.com/r/unixporn/comments/1cshpoe/kde_plasma_first_rice/ 
 - https://www.reddit.com/r/unixporn/comments/1cro5mm/hyprland_been_lurking_here_for_quite_a_while/
